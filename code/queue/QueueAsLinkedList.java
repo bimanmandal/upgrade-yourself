@@ -1,5 +1,5 @@
 class QueueAsLinkedList<T> {
-	private static class Node<T> {
+	static class Node<T> {
 		T data;
 		Node<T> next;
 
