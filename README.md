@@ -12,6 +12,7 @@
 ### Algorithms
 
 ## System Design
+[Elevator System Design](https://tedweishiwang.github.io/journal/object-oriented-design-elevator.html)
 
 ## Design Patterns
 
